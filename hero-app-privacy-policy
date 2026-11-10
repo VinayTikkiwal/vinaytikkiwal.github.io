@@ -1,0 +1,278 @@
+<div class="YQy4vd">
+<div class="JauZY">
+<div class="react-code-text react-code-line-contents">
+<div>
+<div class="react-file-line html-div" data-testid="code-cell" data-line-number="1"># Privacy Policy for Habit Hero: RPG Habit Tracker</div>
+</div>
+</div>
+<div class="react-code-text react-code-line-contents">&nbsp;</div>
+<div class="react-code-text react-code-line-contents">
+<div>
+<div class="react-file-line html-div" data-testid="code-cell" data-line-number="3">**Last Updated:** May 9, 2026</div>
+</div>
+</div>
+<div class="react-code-text react-code-line-contents">
+<div>
+<div class="react-file-line html-div" data-testid="code-cell" data-line-number="4">**Effective Date:** May 9, 2026</div>
+</div>
+</div>
+<div class="react-code-text react-code-line-contents">
+<div>
+<div class="react-file-line html-div" data-testid="code-cell" data-line-number="5">**Developer:** funbucket</div>
+</div>
+</div>
+<div class="react-code-text react-code-line-contents">
+<div>
+<div class="react-file-line html-div" data-testid="code-cell" data-line-number="6">**Contact:** bucketfun2015@gmail.com</div>
+</div>
+</div>
+<div class="react-code-text react-code-line-contents">&nbsp;</div>
+<div class="react-code-text react-code-line-contents">&nbsp;</div>
+<div class="react-code-text react-code-line-contents">
+<div>
+<div class="react-file-line html-div" data-testid="code-cell" data-line-number="9">---</div>
+</div>
+</div>
+<div class="react-code-text react-code-line-contents">&nbsp;</div>
+<div class="react-code-text react-code-line-contents">
+<div>
+<div class="react-file-line html-div" data-testid="code-cell" data-line-number="11">### 1. Introduction</div>
+</div>
+</div>
+<div class="react-code-text react-code-line-contents">
+<div>
+<div class="react-file-line html-div" data-testid="code-cell" data-line-number="12">Welcome to **Habit Hero: RPG Habit Tracker** ("the App"), developed by **funbucket** ("we", "us", or "our"). We respect your privacy and are committed to protecting any information associated with your use of our App.</div>
+</div>
+</div>
+<div class="react-code-text react-code-line-contents">&nbsp;</div>
+<div class="react-code-text react-code-line-contents">
+<div>
+<div class="react-file-line html-div" data-testid="code-cell" data-line-number="14">This Privacy Policy explains how our App handles information, what data third-party service providers may process, and your rights regarding your data.</div>
+</div>
+</div>
+<div class="react-code-text react-code-line-contents">&nbsp;</div>
+<div class="react-code-text react-code-line-contents">
+<div>
+<div class="react-file-line html-div" data-testid="code-cell" data-line-number="16">---</div>
+</div>
+</div>
+<div class="react-code-text react-code-line-contents">&nbsp;</div>
+<div class="react-code-text react-code-line-contents">
+<div>
+<div class="react-file-line html-div" data-testid="code-cell" data-line-number="18">### 2. Information We Do NOT Collect</div>
+</div>
+</div>
+<div class="react-code-text react-code-line-contents">
+<div>
+<div class="react-file-line html-div" data-testid="code-cell" data-line-number="19">* **Personal Habits, Tasks, and Routine Data**: All your habits, daily quests, to-do lists, streaks, character level, pets, gold, and game progress are stored **100% locally on your device** using local SQLite database storage. We do not transmit, sync, or store your personal habit records on our private servers.</div>
+</div>
+</div>
+<div class="react-code-text react-code-line-contents">
+<div>
+<div class="react-file-line html-div" data-testid="code-cell" data-line-number="20">* **Account Credentials**: You do not need an account or login to use Habit Hero. We do not collect your name, email address, phone number, or passwords.</div>
+</div>
+</div>
+<div class="react-code-text react-code-line-contents">
+<div>
+<div class="react-file-line html-div" data-testid="code-cell" data-line-number="21">* **Location Data**: We do not request, track, or collect your GPS coordinates or precise location.</div>
+</div>
+</div>
+<div class="react-code-text react-code-line-contents">&nbsp;</div>
+<div class="react-code-text react-code-line-contents">
+<div>
+<div class="react-file-line html-div" data-testid="code-cell" data-line-number="23">---</div>
+</div>
+</div>
+<div class="react-code-text react-code-line-contents">&nbsp;</div>
+<div class="react-code-text react-code-line-contents">
+<div>
+<div class="react-file-line html-div" data-testid="code-cell" data-line-number="25">### 3. Information Collected by Third-Party Services</div>
+</div>
+</div>
+<div class="react-code-text react-code-line-contents">
+<div>
+<div class="react-file-line html-div" data-testid="code-cell" data-line-number="26">To provide in-app advertising and optional in-app purchases, we integrate trusted third-party SDKs provided by Google:</div>
+</div>
+</div>
+<div class="react-code-text react-code-line-contents">&nbsp;</div>
+<div class="react-code-text react-code-line-contents">
+<div>
+<div class="react-file-line html-div" data-testid="code-cell" data-line-number="28">#### A. Google Mobile Ads (AdMob)</div>
+</div>
+</div>
+<div class="react-code-text react-code-line-contents">
+<div>
+<div class="react-file-line html-div" data-testid="code-cell" data-line-number="29">We use Google AdMob to display banner, interstitial, and rewarded video advertisements. AdMob may collect and process:</div>
+</div>
+</div>
+<div class="react-code-text react-code-line-contents">
+<div>
+<div class="react-file-line html-div" data-testid="code-cell" data-line-number="30">* Device identifiers (such as the Google Advertising ID / AAID).</div>
+</div>
+</div>
+<div class="react-code-text react-code-line-contents">
+<div>
+<div class="react-file-line html-div" data-testid="code-cell" data-line-number="31">* IP address and coarse network location (city/country level).</div>
+</div>
+</div>
+<div class="react-code-text react-code-line-contents">
+<div>
+<div class="react-file-line html-div" data-testid="code-cell" data-line-number="32">* Ad interaction data (ad views, clicks, and impressions).</div>
+</div>
+</div>
+<div class="react-code-text react-code-line-contents">
+<div>
+<div class="react-file-line html-div" data-testid="code-cell" data-line-number="33">* Diagnostic information for fraud prevention and performance analysis.</div>
+</div>
+</div>
+<div class="react-code-text react-code-line-contents">&nbsp;</div>
+<div class="react-code-text react-code-line-contents">
+<div>
+<div class="react-file-line html-div" data-testid="code-cell" data-line-number="35">You can learn more about how Google processes information by visiting [Google Privacy &amp; Terms](https://policies.google.com/technologies/ads). You can also reset or opt out of personalized ads at any time via your Android device settings (**Settings &amp;rarr; Google &amp;rarr; Ads &amp;rarr; Delete Advertising ID**).</div>
+</div>
+</div>
+<div class="react-code-text react-code-line-contents">&nbsp;</div>
+<div class="react-code-text react-code-line-contents">
+<div>
+<div class="react-file-line html-div" data-testid="code-cell" data-line-number="37">#### B. Google Play In-App Billing</div>
+</div>
+</div>
+<div class="react-code-text react-code-line-contents">
+<div>
+<div class="react-file-line html-div" data-testid="code-cell" data-line-number="38">We use Google Play's native Billing service to process optional purchases (e.g., Starter Bundles, Streak Shields, and Remove Ads Lifetime Pass).</div>
+</div>
+</div>
+<div class="react-code-text react-code-line-contents">
+<div>
+<div class="react-file-line html-div" data-testid="code-cell" data-line-number="39">* Financial data (credit card numbers, billing addresses) is collected and processed **exclusively by Google LLC**.</div>
+</div>
+</div>
+<div class="react-code-text react-code-line-contents">
+<div>
+<div class="react-file-line html-div" data-testid="code-cell" data-line-number="40">* We never see, receive, or store your payment card details.</div>
+</div>
+</div>
+<div class="react-code-text react-code-line-contents">
+<div>
+<div class="react-file-line html-div" data-testid="code-cell" data-line-number="41">* The App receives an anonymous purchase token from Google Play to unlock the corresponding in-game perks.</div>
+</div>
+</div>
+<div class="react-code-text react-code-line-contents">&nbsp;</div>
+<div class="react-code-text react-code-line-contents">
+<div>
+<div class="react-file-line html-div" data-testid="code-cell" data-line-number="43">---</div>
+</div>
+</div>
+<div class="react-code-text react-code-line-contents">&nbsp;</div>
+<div class="react-code-text react-code-line-contents">
+<div>
+<div class="react-file-line html-div" data-testid="code-cell" data-line-number="45">### 4. Data Security &amp; Storage</div>
+</div>
+</div>
+<div class="react-code-text react-code-line-contents">
+<div>
+<div class="react-file-line html-div" data-testid="code-cell" data-line-number="46">* **Encrypted in Transit**: All network requests initiated by Google AdMob and Google Play Billing utilize industry-standard Transport Layer Security (TLS/HTTPS) encryption.</div>
+</div>
+</div>
+<div class="react-code-text react-code-line-contents">
+<div>
+<div class="react-file-line html-div" data-testid="code-cell" data-line-number="47">* **Local Database Protection**: Your local database (`habithero.db`) is protected by Android application sandboxing, meaning other apps on your device cannot access your habit data without system root access.</div>
+</div>
+</div>
+<div class="react-code-text react-code-line-contents">
+<div>
+<div class="react-file-line html-div" data-testid="code-cell" data-line-number="48">* **Backup Rules**: The App participates in Android Cloud Backup with explicit encryption rules, allowing you to restore your habit progress when switching devices using your personal Google account.</div>
+</div>
+</div>
+<div class="react-code-text react-code-line-contents">&nbsp;</div>
+<div class="react-code-text react-code-line-contents">
+<div>
+<div class="react-file-line html-div" data-testid="code-cell" data-line-number="50">---</div>
+</div>
+</div>
+<div class="react-code-text react-code-line-contents">&nbsp;</div>
+<div class="react-code-text react-code-line-contents">
+<div>
+<div class="react-file-line html-div" data-testid="code-cell" data-line-number="52">### 5. Children's Privacy (COPPA Compliance)</div>
+</div>
+</div>
+<div class="react-code-text react-code-line-contents">
+<div>
+<div class="react-file-line html-div" data-testid="code-cell" data-line-number="53">Habit Hero is intended for a general audience aged **13 and older**. We do not knowingly collect personal information from children under the age of 13. If you believe a child under 13 has provided personal data through third-party ad networks, please contact us at **vinay.tikkiwal1@gmail.com**, and we will promptly investigate and take necessary measures.</div>
+</div>
+</div>
+<div class="react-code-text react-code-line-contents">&nbsp;</div>
+<div class="react-code-text react-code-line-contents">
+<div>
+<div class="react-file-line html-div" data-testid="code-cell" data-line-number="55">---</div>
+</div>
+</div>
+<div class="react-code-text react-code-line-contents">&nbsp;</div>
+<div class="react-code-text react-code-line-contents">
+<div>
+<div class="react-file-line html-div" data-testid="code-cell" data-line-number="57">### 6. Data Deletion Rights</div>
+</div>
+</div>
+<div class="react-code-text react-code-line-contents">
+<div>
+<div class="react-file-line html-div" data-testid="code-cell" data-line-number="58">Because your habit and character data is stored locally on your device, you have complete control over your data:</div>
+</div>
+</div>
+<div class="react-code-text react-code-line-contents">
+<div>
+<div class="react-file-line html-div" data-testid="code-cell" data-line-number="59">* You can delete all your stored data at any time by going to your device's **Settings &amp;rarr; Apps &amp;rarr; Habit Hero &amp;rarr; Storage &amp;rarr; Clear Data**.</div>
+</div>
+</div>
+<div class="react-code-text react-code-line-contents">
+<div>
+<div class="react-file-line html-div" data-testid="code-cell" data-line-number="60">* Uninstalling the application will permanently delete all local habit databases and preferences.</div>
+</div>
+</div>
+<div class="react-code-text react-code-line-contents">&nbsp;</div>
+<div class="react-code-text react-code-line-contents">
+<div>
+<div class="react-file-line html-div" data-testid="code-cell" data-line-number="62">---</div>
+</div>
+</div>
+<div class="react-code-text react-code-line-contents">&nbsp;</div>
+<div class="react-code-text react-code-line-contents">
+<div>
+<div class="react-file-line html-div" data-testid="code-cell" data-line-number="64">### 7. Changes to This Privacy Policy</div>
+</div>
+</div>
+<div class="react-code-text react-code-line-contents">
+<div>
+<div class="react-file-line html-div" data-testid="code-cell" data-line-number="65">We may update our Privacy Policy from time to time. Any changes will be posted on this page with an updated "Last Updated" date. We encourage you to review this page periodically.</div>
+</div>
+</div>
+<div class="react-code-text react-code-line-contents">&nbsp;</div>
+<div class="react-code-text react-code-line-contents">
+<div>
+<div class="react-file-line html-div" data-testid="code-cell" data-line-number="67">---</div>
+</div>
+</div>
+<div class="react-code-text react-code-line-contents">&nbsp;</div>
+<div class="react-code-text react-code-line-contents">
+<div>
+<div class="react-file-line html-div" data-testid="code-cell" data-line-number="69">### 8. Contact Us</div>
+</div>
+</div>
+<div class="react-code-text react-code-line-contents">
+<div>
+<div class="react-file-line html-div" data-testid="code-cell" data-line-number="70">If you have any questions, feedback, or concerns regarding this Privacy Policy or the practices of Habit Hero, please contact us at:</div>
+</div>
+</div>
+<div class="react-code-text react-code-line-contents">&nbsp;</div>
+<div class="react-code-text react-code-line-contents">
+<div>
+<div class="react-file-line html-div" data-testid="code-cell" data-line-number="72">* **Email:** bucketfun2015@gmail.com</div>
+</div>
+</div>
+<div class="react-code-text react-code-line-contents">
+<div>
+<div class="react-file-line html-div" data-testid="code-cell" data-line-number="73">* **Developer:** funbucket</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Comments are visible in the HTML source only -->
