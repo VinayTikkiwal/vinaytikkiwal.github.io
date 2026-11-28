@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Privacy Policy — DeepPause: Screen Time &amp; Detox</title>
+  <style>
+    :root {
+      --bg: #f6f8f5;
+      --card: #ffffff;
+      --primary: #2e7d32;
+      --primary-dark: #1b5e20;
+      --text: #1c241d;
+      --muted: #556157;
+      --border: #e1e8df;
+      --accent-bg: #edf5ee;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      padding: 20px 16px 40px;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background-color: var(--bg);
+      color: var(--text);
+      line-height: 1.65;
+    }
+    .container {
+      max-width: 780px;
+      margin: 0 auto;
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 28px 24px;
+      box-shadow: 0 4px 18px rgba(0, 0, 0, 0.04);
+    }
+    header {
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 16px;
+      margin-bottom: 22px;
+    }
+    h1 {
+      margin: 0 0 6px;
+      font-size: 1.65rem;
+      color: var(--primary-dark);
+    }
+    .meta {
+      font-size: 0.9rem;
+      color: var(--muted);
+      margin: 0;
+    }
+    h2 {
+      margin-top: 26px;
+      margin-bottom: 10px;
+      font-size: 1.15rem;
+      color: var(--primary);
+    }
+    p, li {
+      font-size: 0.96rem;
+      color: var(--text);
+    }
+    ul {
+      padding-left: 20px;
+      margin: 8px 0 14px;
+    }
+    li {
+      margin-bottom: 6px;
+    }
+    .callout {
+      background: var(--accent-bg);
+      border-left: 4px solid var(--primary);
+      border-radius: 8px;
+      padding: 14px 16px;
+      margin: 16px 0;
+    }
+    .callout strong {
+      color: var(--primary-dark);
+    }
+    a {
+      color: var(--primary);
+      text-decoration: underline;
+    }
+    footer {
+      margin-top: 30px;
+      padding-top: 16px;
+      border-top: 1px solid var(--border);
+      font-size: 0.88rem;
+      color: var(--muted);
+    }
+  </style>
+</head>
+<body>
+  <main class="container">
+    <header>
+      <h1>Privacy Policy</h1>
+      <p class="meta">
+        <strong>App:</strong> DeepPause: Screen Time &amp; Detox (<code>com.deeppause.detox</code>)<br />
+        <strong>Developer:</strong> Funbucket<br />
+        <strong>Effective Date:</strong> November 27, 2026
+      </p>
+    </header>
+
+    <p>
+      Funbucket ("we", "our", or "us") built <strong>DeepPause: Screen Time &amp; Detox</strong>
+      to help you reduce screen time, build healthier digital habits, and stay focused. Your privacy
+      matters to us. This Privacy Policy explains what information the app accesses on your device,
+      how it is used, and your choices.
+    </p>
+
+    <div class="callout">
+      <strong>Local-First Privacy Summary:</strong> DeepPause does not require an account or login.
+      Your detox sessions, schedules, app limits, blocked websites, streaks, badges, and Swear Jar
+      records are stored <strong>100% locally on your device</strong> and are never uploaded to our
+      servers or sold to third parties.
+    </div>
+
+    <h2>1. Information Stored Locally on Your Device</h2>
+    <p>
+      To provide core features, DeepPause saves your preferences and progress locally in private
+      Android app storage:
+    </p>
+    <ul>
+      <li>Active detox timers, completed session history, streaks, and unlocked achievement badges.</li>
+      <li>Recurring detox schedules, Pomodoro timer settings, and Smart Context Break preferences.</li>
+      <li>Your chosen Allowed Apps (whitelist), Per-App Daily Limits, and custom Blocked Website domains.</li>
+      <li>Optional Accountability Swear Jar entries, local leaderboard nickname, and friend invite codes you choose to share.</li>
+    </ul>
+    <p>
+      We do not collect your name, email address, phone number, contacts, photos, location, or messages.
+    </p>
+
+    <h2>2. AccessibilityService API Disclosure</h2>
+    <p>
+      DeepPause requests Android's <strong>AccessibilityService API</strong> solely to power its core
+      digital wellbeing and blocking features, and only after you explicitly consent in our in-app
+      disclosure dialog and enable it in Android Settings:
+    </p>
+    <ul>
+      <li><strong>App Blocking &amp; Daily Limits:</strong> Detects the package name of the currently active foreground app so non-whitelisted apps are blocked during an active detox challenge or paused when a daily app time limit is reached.</li>
+      <li><strong>Website Filtering:</strong> Reads the address bar URL of supported web browsers only while a detox session is active to block distracting domains you configured.</li>
+      <li><strong>Anti-Cheat Settings Protection:</strong> Optionally prevents opening Android Settings or Package Installer while an active detox challenge is running, if you enable that setting.</li>
+      <li><strong>Smart Break Context Detection:</strong> Measures continuous foreground session duration and rapid app switching locally to suggest timely eye and body breaks.</li>
+    </ul>
+    <p>
+      <strong>Strict Privacy Guarantee:</strong> All AccessibilityService events are processed
+      <strong>exclusively on your device in real time</strong>. DeepPause never records, logs,
+      transmits, stores remotely, or shares screen content, keystrokes, passwords, personal
+      messages, or browsing history.
+    </p>
+
+    <h2>3. Other Android Permissions &amp; Why We Use Them</h2>
+    <ul>
+      <li><strong>Usage Access (<code>PACKAGE_USAGE_STATS</code>):</strong> Reads local app usage totals to display your daily, weekly, and monthly screen-time charts, enforce daily app budgets, and power Smart Context Break reminders.</li>
+      <li><strong>Installed Apps List (<code>QUERY_ALL_PACKAGES</code>):</strong> Displays your installed apps inside DeepPause so you can pick Allowed Apps (whitelist), set Per-App Daily Limits, and exclude apps from Smart Break alerts. This list never leaves your device.</li>
+      <li><strong>Display Over Other Apps (<code>SYSTEM_ALERT_WINDOW</code>):</strong> Immediately brings back the DeepPause lock screen if a blocked app is opened during an active challenge.</li>
+      <li><strong>Device Administrator (Optional Anti-Uninstall):</strong> Prevents uninstalling DeepPause during an active detox session if you choose to enable this protection. You can deactivate it anytime in Android Settings.</li>
+      <li><strong>Do Not Disturb Access (<code>ACCESS_NOTIFICATION_POLICY</code>):</strong> Optionally silences distracting notifications automatically while a detox challenge is active.</li>
+      <li><strong>Notifications &amp; Exact Alarms:</strong> Shows your active detox countdown, triggers scheduled detox routines on time, and delivers local Smart Context Break reminders.</li>
+    </ul>
+
+    <h2>4. Advertising (Google AdMob)</h2>
+    <p>
+      The free version of DeepPause displays ads provided by <strong>Google AdMob</strong> (including
+      Banner, App Open, Interstitial, and optional Rewarded ads). Google AdMob may collect and use
+      your device's Advertising ID (<code>AD_ID</code>), IP address, app interaction events, and
+      diagnostic data to serve and measure ads in accordance with Google's policies.
+    </p>
+    <ul>
+      <li>Upgrading to a paid <strong>DeepPause Pro</strong> subscription removes Banner, App Open, and Interstitial ads after any free trial ends.</li>
+      <li>You can reset or limit personalized advertising anytime in Android <strong>Settings &rarr; Google &rarr; Ads</strong>.</li>
+      <li>Learn more in <a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer">Google's Privacy Policy</a> and <a href="https://support.google.com/admob/answer/6128543" target="_blank" rel="noopener noreferrer">How Google Uses Information From Apps</a>.</li>
+    </ul>
+
+    <h2>5. In-App Purchases &amp; Subscriptions (Google Play Billing)</h2>
+    <p>
+      DeepPause Pro subscriptions and optional Accountability Swear Jar purchases are processed
+      securely by <strong>Google Play Billing</strong>. We do not receive, process, or store your
+      credit card, bank, or billing address details. You can manage or cancel subscriptions anytime
+      in the Google Play Store under <em>Payments &amp; subscriptions</em>.
+    </p>
+
+    <h2>6. Sharing Features</h2>
+    <p>
+      When you tap <strong>Share App</strong>, share a streak badge image, or share a friend
+      leaderboard code, DeepPause uses Android's standard share sheet so you choose which app or
+      contact receives the content. Shared badge images are temporarily generated in private app
+      cache and never uploaded by us.
+    </p>
+
+    <h2>7. Data Retention &amp; Deletion</h2>
+    <p>
+      Because your DeepPause data is stored locally on your device, you have complete control over
+      it at all times. You can permanently delete all local app data at any time by going to Android
+      <strong>Settings &rarr; Apps &rarr; DeepPause &rarr; Storage &rarr; Clear storage</strong>,
+      or by uninstalling the app.
+    </p>
+
+    <h2>8. Children's Privacy</h2>
+    <p>
+      DeepPause is not directed to children under the age of 13, and we do not knowingly collect
+      personal information from children under 13. If you believe a child has provided personal
+      information through a third-party service, please contact us so we can assist promptly.
+    </p>
+
+    <h2>9. Changes to This Privacy Policy</h2>
+    <p>
+      We may update this Privacy Policy from time to time to reflect app improvements or legal
+      requirements. Any changes will be posted on this page with an updated effective date.
+    </p>
+
+    <h2>10. Contact Us</h2>
+    <p>
+      If you have questions or requests regarding this Privacy Policy, please contact us:<br />
+      <strong>Developer:</strong> Funbucket<br />
+      <strong>Email:</strong> <a href="mailto:bucketfun2015@gmail.com">bucketfun2015@gmail.com</a><br />
+      <strong>More Apps:</strong> <a href="https://play.google.com/store/apps/developer?id=funbucket" target="_blank" rel="noopener noreferrer">Funbucket on Google Play</a>
+    </p>
+
+    <footer>
+      &copy; 2026 Funbucket. All rights reserved. DeepPause: Screen Time &amp; Detox.
+    </footer>
+  </main>
+</body>
+</html>
